@@ -1,5 +1,4 @@
 # ASC
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Dv1de29/ASC)
 
 This repository contains a project that simulates a basic file manager's storage allocation system using 32-bit x86 assembly language. The simulation handles the logic for allocating, finding, deleting, and defragmenting "files" within a modeled storage space.
 
